@@ -1,1 +1,3 @@
 # MergeSort
+
+Simple Merge Sort
